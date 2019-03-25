@@ -13,4 +13,9 @@
 
 .goal_list {
   margin: 30px;
+  text-align: center;
+}
+
+.goal_form {
+  text-align: center;
 }
